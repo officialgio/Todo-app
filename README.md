@@ -33,10 +33,6 @@ The program allows you to create a list of todos. </br></br>
 - Javascript
 - React
 
-## ✅ Task
-
-Grab the `student-list` file and insert each student into the Local Storage by adding their name, age, and class year.
-
 ### 🗄 How does it work?
 
 Add a to do task..
