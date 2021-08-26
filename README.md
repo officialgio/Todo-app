@@ -13,12 +13,12 @@ The program allows you to create a list of todos. </br></br>
 ## 🌟 Features/Concepts Learned
 
 - 💻 1 Front-end Page
-- 📊 Backend using Dev Tools (Inspect Element) and the Local Storage Method
-- 💻 Implementation of Students and displaying them in the UI
-- 🗄 Inserting `Keys/Values` into the Local Storage
-- 💻 Converting strings and arrays using the `.JSON` method.
-- ➕ Appending elements
-- 🔀 Storing Arrays/Objects and returning them into a String.
+- 💻 Implementation of tasks and displaying them in the UI.
+- 🗄 Updating the React state.
+- 💻 Insering one item and displkaying them in rows in the UI.
+- ❌ filtering out a item when being deleted.
+- ➕ Adding to the list using the `.push` concept.
+
 
 
 ## 📂 Technologies Used
@@ -31,22 +31,17 @@ The program allows you to create a list of todos. </br></br>
 ### Backend
 
 - Javascript
+- React
 
 ## ✅ Task
 
 Grab the `student-list` file and insert each student into the Local Storage by adding their name, age, and class year.
 
-### 🗄 How to check the Local Storage
+### 🗄 How does it work?
 
-Open Dev Tools by...
+Add a to do task..
 
-- Right click and click on `Inspect Element`
-- On the Nav Bar find your way into the `>>`.
-- Click on `Application`
-- Scroll down and find `Storage` and click it to view more.
-You will find your `local server address` from which you're displaying the project from.
-- Click the server and you should see `key` which shows the name of the storage that you're inserting data into.
-- Next to the key you'll see `value` which is the string of data with their properties `(name, age, roll)`
+- If you wish to delete the item press "X" button.
 
 ### ⚒️ Set Up
 
@@ -54,17 +49,17 @@ You will find your `local server address` from which you're displaying the proje
 # Open code editor (VS Code)
 dowload git project
 
-# go to file location by opening your terminal
-cd Local Storage
+# open the project
+ensure you have Node.js installed.
 
-# run the code
-code . (if not working: ensure that you have shell-command installed)
+# open a new terminal in VS Code and type...
+npm start (it would only work if you have Node.js installed)
 
 ```
 
 ## 📌 Authors
 
-🧑🏽‍💻 **Giovanny Hernandez** - Created the Front End and code along with Max.
+🧑🏽‍💻 **Giovanny Hernandez** - Created the Front End and code along with Tiff.
 
-🧑🏽‍💻 **Max Programming** - Code along and Explanation into Local Storage
+👩🏼 **Tiff in Tech** - Code along and Explanation into React.
 
