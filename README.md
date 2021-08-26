@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="1000" src="./todo-app/image/todolist.jpg">
+    <img width="800" src="./todo-app/image/todolist.jpg">
 </p>
 
 <h1 align="center">Todo App</h1>
